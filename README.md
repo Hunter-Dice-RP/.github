@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">**Hunter Dice RP**</h1></summary>
-     <img src="https://media.discordapp.net/attachments/1086264368234254477/1182832280704659516/bannerconnection1500x500.png" />
+     <img src="https://storage.ko-fi.com/cdn/useruploads/dac5957f-f922-4054-a15d-61a79f934582_png_c391802f-9ab7-4d90-8c71-cde9be3c32c7cover.png" />
     <a href="https://linktr.ee/sadicius">
     <img src="https://img.shields.io/badge/-Linktr-000000?style=flat-square&logo=github&logoColor=white">
     </a>
